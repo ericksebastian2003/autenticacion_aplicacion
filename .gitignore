@@ -68,7 +68,8 @@ testem.log
 
 
 #Credenciales
-src/environments/*
+src/environments/environment.ts
+
 # System files
 .DS_Store
 Thumbs.db
