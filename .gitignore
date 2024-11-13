@@ -57,7 +57,7 @@ yarn-error.log
 /.angular
 /.angular/cache
 .sass-cache/
-environments/
+
 /.nx
 /.nx/cache
 /connect.lock
@@ -66,6 +66,9 @@ environments/
 testem.log
 /typings
 
+
+#Credenciales
+src/environments/*
 # System files
 .DS_Store
 Thumbs.db
